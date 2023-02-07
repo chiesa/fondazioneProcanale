@@ -5,8 +5,8 @@ TODO List:
   X  - invio mail
   X  - change the name of the page
   X  - README
-    - github 
-    - upload ipfs
+  X  - github 
+  X  - upload ipfs
     - buy url
 
 # web site
