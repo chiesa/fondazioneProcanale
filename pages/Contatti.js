@@ -18,7 +18,7 @@ export default function Contatti() {
                 </div>
             
                 <div class="mx-auto w-full max-w-[550px]">
-                    <form action="mailto:samuelechiesa.basta@gmail.com" METHOD="POST" ENCTYPE="text/plain">
+                    <form action="mailto:samuelechiesa.basta@gmail.com" ENCTYPE="text/plain">
                         
                         <div class="mb-5">
                             <label
