@@ -8,6 +8,7 @@ TODO List:
   X  - github 
   X  - upload ipfs
     - buy url
+    - sistemare contatti 
 
 # web site
 Questo è il sito web per la pagina personale di Samuele Chiesa.

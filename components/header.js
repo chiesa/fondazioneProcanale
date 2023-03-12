@@ -4,7 +4,7 @@ import Link from "next/link"
 export default function Header() {
     return (
         
-        <nav className="p-5 border-b-2 flex flex-row justify-between items-center">
+        <nav className="p-5 border-b-2 flex flex-row justify-between items-center outline: none;">
             {//<div className="body-font font-pacifico sm:text-5xl md:text-[30px]">Samuele Chiesa</div>
             }
 
