@@ -7,8 +7,12 @@ TODO List:
   X  - README
   X  - github 
   X  - upload ipfs
+  X  - sistemare contatti 
     - buy url
-    - sistemare contatti 
+  X  - refactory
+    - rivedere testi
+    - aggiungere lingua
+    - bloccare l'inserimento non valido nella sezione contatti
 
 # web site
 Questo è il sito web per la pagina personale di Samuele Chiesa.
