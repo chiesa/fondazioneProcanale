@@ -10,17 +10,14 @@
   },
   "dependencies": {
     "@chakra-ui/react": "^2.5.1",
-    "@emailjs/browser": "^3.10.0",
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@next/font": "13.1.6",
     "framer-motion": "^10.3.1",
     "magic-sdk": "^13.1.0",
-    "moralis-v1": "^1.12.0",
     "next": "13.1.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "web3uikit": "^1.0.4"
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",

@@ -1,4 +1,3 @@
-import { ConnectButton } from "web3uikit"
 import Link from "next/link"
 
 export default function Header() {
@@ -35,18 +34,8 @@ export default function Header() {
             </button>
             <ul className="ul-head">
                 <li className="li-head">
-                    <Link legacyBehavior href="/">
-                        <a className="mr-4 p-6">About me</a>
-                    </Link>
-                </li>
-                <li className="li-head">
-                    <Link legacyBehavior href="/Servizi">
-                        <a className="mr-4 p-6">Servizi</a>
-                    </Link>
-                </li>
-                <li className="li-head">
-                    <Link legacyBehavior href="/NFT_Gallery">
-                        <a className="mr-4 p-6">NFT Gallery</a>
+                    <Link legacyBehavior href="/Documenti">
+                        <a className="mr-4 p-6">Documenti</a>
                     </Link>
                 </li>
                 <li className="li-head">
@@ -54,28 +43,20 @@ export default function Header() {
                         <a className="mr-4 p-6">Contatti</a>
                     </Link>
                 </li>
-                <ConnectButton moralisAuth={false} />
             </ul>
+        
             </div>
-
-
-
-            <img src="/logo.ico" className="lg:w-2/12 w-1/2"/>
+            <div class="relative lg:w-2/12 md:w-2/12 w-1/3">
+            <a href="/"><img src="/favicon.ico" className=" relative right-0"/></a>
+            </div>
             <div className="hidden lg:block">
                 <div className="flex flex-row items-center md:w-auto">
-                    <Link legacyBehavior href="/">
-                        <a className="mr-4 p-6">About me</a>
-                    </Link>
-                    <Link legacyBehavior href="/Servizi">
-                        <a className="mr-4 p-6">Servizi</a>
-                    </Link>
-                    <Link legacyBehavior href="/NFT_Gallery">
-                        <a className="mr-4 p-6">NFT Gallery</a>
+                    <Link legacyBehavior href="/Documenti">
+                        <a className="mr-4 p-6">Documenti</a>
                     </Link>
                     <Link legacyBehavior href="/Contatti">
                         <a className="mr-4 p-6">Contatti</a>
                     </Link>
-                    <ConnectButton moralisAuth={false} />
                 </div>
             </div>
             

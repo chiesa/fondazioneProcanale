@@ -2,20 +2,10 @@ import styles from '../styles/Home.module.css'
 
 export default function Footer() {
     return (
-
-        <div className="bg-gray-100">
-        <footer className={styles.footer}>
-
-                <a
-                    href="/contatti"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-gray-500"
-                >
-                    Powered by {'Samuele Chiesa'}
-
-                </a>
-        </footer>
+        <div className="fixed bottom-0 w-full bg-gray-100 justify-items-center">
+            <footer className={styles.footer}>
+                <p class="text-center ...">{'Fondazione pro Canale ETS'} - P.IVA 97240400156 </p>
+            </footer>
         </div>
     )
 }

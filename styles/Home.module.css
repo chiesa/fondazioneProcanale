@@ -1,5 +1,7 @@
 .container {
+    height: 75vh;
     padding: 0 2rem;
+    place-content: center;
   }
   
 .nav-style
