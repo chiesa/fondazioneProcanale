@@ -25,11 +25,11 @@ export default function Contatti() {
                         <p className="font-bold">
                             Presidente:
                         </p>
-                        Giovanni Peterlongo,<br/>
+                        Paolo Nicolini<br/>
                         <br/>
                         
                         <p className="font-bold">
-                            C.F. e P.IVA
+                            C.F.
                         </p> 
                         97240400156<br/>
                         <br/>
